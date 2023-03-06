@@ -1,0 +1,2 @@
+-user [tipoMusica=Indie, DNI=22222222K, nombre=Berta, apellidos=L?pez, direccion=Dirección, usuario=berta, clave=berta123]
+-user [tipoMusica=Pop, DNI=04864138Y, nombre=Sergio, apellidos=Fernández Nevado, direccion=Dirección, usuario=user2, clave=123]
